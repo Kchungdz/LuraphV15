@@ -1,6 +1,6 @@
 # Luraph v15 Deobfuscator
 
-[![CI](https://github.com/Aditya-lua/Deobfuscator-Luraph-V15/actions/workflows/ci.yml/badge.svg)](https://github.com/Aditya-lua/Deobfuscator-Luraph-V15/actions/workflows/ci.yml)
+[![CI](https://github.com/Kchungdz/LuraphV15/actions/workflows/ci.yml/badge.svg)](https://github.com/Kchungdz/LuraphV15/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![Target](https://img.shields.io/badge/Target-Luraph%20v15-red.svg)](https://lura.ph/)
@@ -104,8 +104,8 @@ The deobfuscator operates across 5 stages:
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/Aditya-lua/Deobfuscator-Luraph-V15.git
-cd Deobfuscator-Luraph-V15
+git clone https://github.com/Kchungdz/LuraphV15.git
+cd LuraphV15
 npm install
 ```
 
